@@ -1,9 +1,19 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: UTN
+  dates: Date Range (eg. 2014 - 2020)
+  qualification: B.Eng. Computer Engineering
   quote: >
-    Short institution or course description (optional)
+    National Technology University was founded in 1959 in Buenos Aires with the purpose of preparing professionals in the field of technology.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    During my time at UTN I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+- layout: left
+  name: Cambridge University
+  dates: Date Range (eg. 2013)
+  qualification: First Certificate in English (FCE)
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    This general English qualification proves that I can speak and write English well enough to work or study in an English-speaking environment.
+
