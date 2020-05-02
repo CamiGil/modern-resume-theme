@@ -1,10 +1,35 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Despegar
+  link: https://www.despegar.com
+  job_title: Ssr. Fullstack developer
+  dates: Date Range (eg. August 2017 - present)
   quote: >
-   Short description of the company (optional)
+   Despegar is an online travel agency based in Argentina. It has a presence in 21 countries. Despegar is the largest travel agency in America by volume.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    My role consists of interacting frequently with product and ux analysts to gather requirements, write plans, organize and prioritize tasks, and also developing the services, tools or page views needed.
+    Loyalty Team: Builded an enrollment system for accumulating loyalty points from scratch and integrated with credit card companies such as Santander to bring users a Despegar credit card.
+    Checkout Team: Participated on migrating a rebuilding the company’s checkout page used on more than 10 countries with diverse payments methods and products.
+    Technologies used/other details: Java, Angular, HTML, CSS, Jenkins, Spring, MySQL, MicroServices, REST APIs, Scrum
+
+# Experience template
+- layout: left
+  company: Tata Consultancy Services S.A.
+  link: https://www.tcs.com/
+  job_title: SOA Developer
+  dates: Date Range (eg. November 2016 - July 2017)
+  quote: >
+    A part of the Tata group, India's largest multinational business group, TCS has over 436,000 of the world’s best-trained consultants in 46 countries. 
+  description: | # this will include new lines to allow paragraphs
+    I was responsable for technical development, maintenance and support of the Oracle E-Business Suite with a heavy focus on system integrations architecture and development.
+    
+# Experience template
+- layout: left
+  company: Enta Consulting
+  link: http://www.entaconsulting.com/
+  job_title: Job title
+  dates: Date Range (eg. October 2015 - October 2016)
+  quote: >
+   Enta Consulting is a company specialized in creating business solutions applying unique combinations of technology, methodologies and information. 
+  description: | # this will include new lines to allow paragraphs
+    My role consisted of functional analysis of new requirements (descriptions, use cases, processes), survey of processes for each sector, preparation of user manuals and support and testing for systems, among other things.
