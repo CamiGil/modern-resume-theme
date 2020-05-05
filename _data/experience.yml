@@ -8,7 +8,7 @@
    Despegar is an online travel agency based in Argentina. It has a presence in 21 countries. Despegar is the largest travel agency in America by volume.
   description: | # this will include new lines to allow paragraphs
     My role consists of interacting frequently with product and ux analysts to gather requirements, write plans, organize and prioritize tasks, and also developing the services, tools or page views needed.
-    Loyalty Team: Builded an enrollment system for accumulating loyalty points from scratch and integrated with credit card companies such as Santander to bring users a Despegar credit card.
+    Loyalty Team: Built an enrollment system for accumulating loyalty points from scratch and integrated with credit card companies such as Santander to bring users a Despegar credit card.
     Checkout Team: Participated on migrating a rebuilding the company’s checkout page used on more than 10 countries with diverse payments methods and products.
     Technologies used/other details: Java, Angular, HTML, CSS, Jenkins, Spring, MySQL, MicroServices, REST APIs, Scrum
 
